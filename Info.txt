@@ -1,0 +1,16 @@
+
+
++------------------------------------TAISYKLES------------------------------------+
+|Rasykite tik lietuviskus zodzius DIDZIOSIOMIS RAIDEMIS, bet be lietuvisku raidziu|
+|Turite 6 spejimus atspeti zodi                                                   |
+|Kuo anksciau atspejate zodi, tuo daugiau tasku pelnote                           |
+|Taskai sumuojasi po kiekvieno atspeto zodzio                                     |
+|Jeigu norite bet kada iseiti is zaidimo ir issaugoti progresa - rasykite [iseiti]|
++---------------------------------------------------------------------------------+
+
+PRADEKIME!
+
+Pasirinkite norima zaidimo lygi:
+[1] - lengvas (5 simboliu zodis)
+[2] - vidutinis (6 simboliu zodis)
+[3] - sunkus (7 simboliu zodis)

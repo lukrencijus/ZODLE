@@ -1,0 +1,6 @@
++-------------------Anksciau zaide zaidejai ir ju rezultatai:--------------------------+
+| VARDAS       |    SUNKUMO LYGIS     |     ATSPETA ZODZIU    |     PELNYTI TASKAI     |
++--------------------------------------------------------------------------------------+
+| Karolis      |    Lengvas           |     16                |     1600               |
+| Lukas        |    Lengvas           |     2                 |     200                |
+| Lukas        |    Lengvas           |     1                 |     100                |
