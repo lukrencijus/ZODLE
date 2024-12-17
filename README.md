@@ -40,7 +40,7 @@ In ZODLE, the objective is to guess a hidden Lithuanian word within a limited nu
 
 ## Authors
 
-- **Lukas Šerelis** @lukrencijus
-- **Karolis Zabulis** @Zabuelis
+- **Lukas Šerelis** [@lukrencijus](https://github.com/lukrencijus)
+- **Karolis Zabulis** [@Zabuelis](https://github.com/Zabuelis)
 
 This project was developed as part of the course "Basics of Programming and IT" at Vilnius University.
